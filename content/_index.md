@@ -9,7 +9,6 @@ This is my homepage content written in Markdown.
 
 ### Recent Posts
 
-{{< recent-posts >}}
 
 ### Featured Projects
 
@@ -18,4 +17,4 @@ This is my homepage content written in Markdown.
 
 ### About Me
 
-I'm a developer/writer/creator who loves to...
+I'm a developer/writer/creator who loves to be cool and awesome
