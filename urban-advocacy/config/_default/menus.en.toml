@@ -12,39 +12,23 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Database"
+url = "/database"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Divisions"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+parent = "Divisions"
+name = "Manhattan, KS"
+url = "/manhattan-ks"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
-
+parent = "Divisions"
+name = "Topeka, KS"
+url = "/topeka-ks"
 
 # footer menu
 [[footer]]
